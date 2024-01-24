@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "ck92fTze7wInLT4s/wzfe6oacPYRjKQ//RVVRhd+tpI=",
+  "Source": "Knowledge_Managment_System2",
+  "BasePath": "_content/Knowledge_Managment_System2",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Knowledge_Managment_System2\\wwwroot",
+      "Source": "Knowledge_Managment_System2",
+      "ContentRoot": "C:\\Users\\Microscope\\Downloads\\FIS\\Practice7\\Project\\Knowledge_Managment_System2\\Knowledge_Managment_System2\\wwwroot\\",
+      "BasePath": "_content/Knowledge_Managment_System2",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Microscope\\Downloads\\FIS\\Practice7\\Project\\Knowledge_Managment_System2\\Knowledge_Managment_System2\\wwwroot\\confirmEmail.html",
+      "SourceId": "Knowledge_Managment_System2",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Microscope\\Downloads\\FIS\\Practice7\\Project\\Knowledge_Managment_System2\\Knowledge_Managment_System2\\wwwroot\\",
+      "BasePath": "_content/Knowledge_Managment_System2",
+      "RelativePath": "confirmEmail.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\confirmEmail.html"
+    }
+  ]
+}

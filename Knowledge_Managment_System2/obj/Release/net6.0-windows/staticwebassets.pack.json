@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Microscope\\Downloads\\FIS\\Practice7\\Project\\Knowledge_Managment_System2\\Knowledge_Managment_System2\\wwwroot\\confirmEmail.html",
+      "PackagePath": "staticwebassets\\confirmEmail.html"
+    },
+    {
+      "Id": "obj\\Release\\net6.0-windows\\staticwebassets\\msbuild.Knowledge_Managment_System2.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0-windows\\staticwebassets\\msbuild.build.Knowledge_Managment_System2.props",
+      "PackagePath": "build\\Knowledge_Managment_System2.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0-windows\\staticwebassets\\msbuild.buildMultiTargeting.Knowledge_Managment_System2.props",
+      "PackagePath": "buildMultiTargeting\\Knowledge_Managment_System2.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0-windows\\staticwebassets\\msbuild.buildTransitive.Knowledge_Managment_System2.props",
+      "PackagePath": "buildTransitive\\Knowledge_Managment_System2.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
